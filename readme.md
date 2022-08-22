@@ -13,4 +13,4 @@ It does
 - [x] Division
 
 😇😇😇😇
-[Checkout my other repositories]()
+[Checkout my other repositories](https://github.com/Yuskhosmith?tab=repositories)
